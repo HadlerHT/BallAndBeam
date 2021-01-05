@@ -4,7 +4,13 @@
 **Orientation:** Dr. Juliano Coelho Miranda\
 **Co-orientation:** Ms. Daniel Soares de Alcântara
 
-**Developed in:** Centro Federal de Educação Tecnológica de Minas Gerais,CEFET-MG. Varginha, Minas Gerais, Brazil.
+The ball and beam module LASE II was developed to be used as a didatic tool for teaching control theory. 
+
 
 
 ![](https://github.com/HadlerHT/BallAndBeam/blob/Images/BallAndBeamLASEII.jpg)
+
+
+
+
+**Developed in:** Centro Federal de Educação Tecnológica de Minas Gerais, CEFET-MG. Varginha, Minas Gerais, Brazil.
