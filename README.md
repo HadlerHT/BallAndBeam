@@ -1,10 +1,8 @@
 # Ball and Beam Module LASE II
 
-Author: Hadler Henrique Tempesta\n
-
-Orientation: Dr. Juliano Coelho Miranda\n
-
-Co-orientation: Ms. Daniel Soares de Alcântara\n
+Author: Hadler Henrique Tempesta
+Orientation: Dr. Juliano Coelho Miranda
+Co-orientation: Ms. Daniel Soares de Alcântara
 
 
 Developed in: 
