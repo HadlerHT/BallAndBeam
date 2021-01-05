@@ -1,2 +1,2 @@
-# Ball and Beam Modulo LASE II
+# Ball and Beam Module LASE II
 
