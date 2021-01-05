@@ -4,7 +4,7 @@
 **Orientation:** Dr. Juliano Coelho Miranda\
 **Co-orientation:** Ms. Daniel Soares de Alcântara
 
-The ball and beam module LASE II was developed to be used as a didatic tool for teaching control theory. 
+***The ball and beam module LASE II was developed to be used as a didatic tool for teaching control theory.***
 
 
 
