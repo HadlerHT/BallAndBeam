@@ -11,11 +11,11 @@ a way  to see the results in practice. Given these reasons, the module was devel
 
 The mechanical structure of the module was 3D model and then 3D printed; it has fitting parts that allow the user to assemble it the most suitable way. All the parts were made available, this way they can be downloaded and 3D printed by anyone interrested.
 
-One way of assembling the pieces will form a module such as shown below:\
+One way of assembling the pieces will form a module such as shown below:
 
 ![](https://github.com/HadlerHT/BallAndBeam/blob/Images/BallAndBeamLASEII.jpg)
 
-The project also received a base code developed to be used on a Arduino UNO, that implementes the classic PID control.\
+The project also received a base code developed to be used on a Arduino UNO, that implementes the classic PID control.
 
 
 
