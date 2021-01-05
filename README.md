@@ -18,6 +18,6 @@ One way of assembling the pieces will form a module such as shown below:
 The project also received a base code developed to be used on a Arduino UNO, that implementes the classic PID control.\
 
 Further instructions on how to use the module are availabe in a technical report also available to download at this repository.\
-	- _Currently theres is only a portuguese version of the report, an english one is being written and will soon be uploaded_
+	- _Currently theres is only a portuguese version of the report, an english one is being written and will soon be uploaded_.
 
 **Developed in:** Centro Federal de Educação Tecnológica de Minas Gerais, CEFET-MG. Varginha, Minas Gerais, Brazil.
